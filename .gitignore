@@ -1,0 +1,3 @@
+*.sg
+*.sym
+__pycache__/
